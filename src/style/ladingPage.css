@@ -1,0 +1,37 @@
+      
+      
+      .myBG {
+            height: 100vh;
+            background: #3333;
+      }
+
+      .intro {
+            height: 40%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #3333;
+
+      }
+
+      .title {
+            font-size: 3rem;
+            font-weight: 500;
+            
+      }
+      .myTrending {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-top: 30px;
+      }
+
+      .button {
+            background-color: #3333;
+            border-radius: 7px;
+            -webkit-border-radius: 7px;
+            -moz-border-radius: 7px;
+            -ms-border-radius: 7px;
+            -o-border-radius: 7px;
+            border-color: rgb(250, 176, 86);
+      }
